@@ -1,0 +1,7 @@
+git add . = adiciona tudo que foi criado pra branch main
+
+git commit -m "descrição" = cria um commit para a nova pasta
+
+git push origin main = envia todos os commits criados localmente para a nuvem do GitHub
+
+git clone "link do repositoria na nuvem" = clona o repositoria para a maquina local
